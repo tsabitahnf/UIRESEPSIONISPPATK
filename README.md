@@ -12,10 +12,10 @@ Dashboard
 ![Screenshot (8)](https://github.com/user-attachments/assets/09c4e1ca-0187-4d3e-9811-d8a0995900d9)
 ![Screenshot (9)](https://github.com/user-attachments/assets/1f07ec4d-2343-4b80-bac2-e4e563d52406)
 
-Halaman Menu Bagian Master Pegawai
+Halaman Menu Master Pegawai
 ![Screenshot (10)](https://github.com/user-attachments/assets/df6ff4ed-0289-4cc3-9b94-71b4b9756ede)
 
-Halaman Menu Bagian Master Tipe Kunjungan
+Halaman Menu Master Tipe Kunjungan
 ![Screenshot (14)](https://github.com/user-attachments/assets/ec2f8d4e-5994-4769-b60b-ecb5e596f39b)
 
 Halaman Menu Data Pengunjung
